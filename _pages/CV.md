@@ -32,5 +32,4 @@ CV
 ---
 
 Here is my CV in PDF format. 
-<object data="../assets/path/to/Emma_Dodd_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
