@@ -1,10 +1,11 @@
 # main links
+# main links
 main:
   - title: "Home"
-     url: https://emma-l-dodd.github.io/
+    url: /
   - title: "CV and Highlights"
-     url:  https://emma-l-dodd.github.io/CV
-  - title: "Research"
-     url: https://emma-l-dodd.github.io/research
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /CV/
+  - title: "Publications"
+    url: /publications/
+  - title:"Research"
+    url: /research/
