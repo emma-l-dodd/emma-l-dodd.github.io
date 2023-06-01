@@ -31,7 +31,4 @@ CV
 ======
 ---
 
-Here is my CV in PDF format. 
-
-<object data="../assets/path/to/Emma_Dodd_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+Click [here](https://github.com/emma-l-dodd/emma-l-dodd.github.io/master/assets/path/to/Emma_Dodd_CV.pdf) for a link to my CV in PDF format.
