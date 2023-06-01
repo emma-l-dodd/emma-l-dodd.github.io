@@ -19,8 +19,8 @@ with the SC4K catalogue.
 My love for globular clusters began when I attended the LEAPs summer school in 2018, 
 working with Dr. Alice Zocchi at ESA, ESTEC on the flattening of globular cluster systems.
 
-I began my PhD at the Kapteyn Institute, Groningen in 2020 with Prof. Dr. Amina Helmi.  
-The topic of my PhD is galactic archeology, to study the assmebly history of the Milky Way
+I began my PhD at the Kapteyn Institute, Groningen in 2020 with Prof. Dr. Amina Helmi. The 
+topic of my PhD is galactic archeology, to study the assmebly history of the Milky Way
 from present day dynamical and chemical information. My main focus has been on using Gaia 
 data to unviel more information on the accretion events experience by our galaxy in the past.
 
@@ -32,4 +32,6 @@ CV
 ---
 
 Here is my CV in PDF format. 
+
+<object data="../assets/path/to/Emma_Dodd_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
 
