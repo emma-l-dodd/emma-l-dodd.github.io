@@ -31,4 +31,4 @@ CV
 ======
 ---
 
-Click [here](https://github.com/emma-l-dodd/emma-l-dodd.github.io/master/assets/path/to/Emma_Dodd_CV.pdf) for a link to my CV in PDF format.
+Click [here](https://github.com/emma-l-dodd/emma-l-dodd.github.io/blob/master/assets/files/Emma_Dodd_CV.pdf) for a link to my CV in PDF format.
