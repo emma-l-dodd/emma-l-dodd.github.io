@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Emma Dodd"
   avatar           : "/assets/images/EDodd_Photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am currently a third year PhD student at Kapteyn Institute, University of Groningen. I research the assembly history of the Milky Way, using Gaia data and spectroscopic surveys. "
+  bio              : "I am currently a third year PhD student at the Kapteyn Institute researching the assembly history of the Milky Way. "
   location         : "Groningen, The Netherlands"
   email            :
   links:
