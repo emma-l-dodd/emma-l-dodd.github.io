@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Bio
+title: CV
 permalink: /CV/
 author_profile: true
 ---
@@ -33,4 +33,4 @@ CV
 
 Here is my CV in PDF format. 
 
-<embed src="/assets/files/CV.pdf" type="application/pdf" />
+<embed src="/assets/files/Emma_Dodd_CV.pdf" type="application/pdf" />
