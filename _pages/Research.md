@@ -1,7 +1,7 @@
 ---
 title: Resaerch
 layout: collection
-permalink: /research/
+permalink: /Research/
 collection: research
 entries_layout: grid
 author_profile: true
