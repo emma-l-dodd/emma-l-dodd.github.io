@@ -26,7 +26,6 @@ data to unviel more information on the accretion events experience by our galaxy
 Click here<a href="assets/files/Emma_Dodd_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> for a link to my CV in PDF format.
 
 
-CV
 ======
 ---
 
