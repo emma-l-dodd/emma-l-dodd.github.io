@@ -30,6 +30,6 @@ CV
 ======
 ---
 
-Click <a href="assets/files/Emma_Dodd_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> for a link to my CV in PDF format.
+Click here<a href="assets/files/Emma_Dodd_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> for a link to my CV in PDF format.
 
 
