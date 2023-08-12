@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 author_profile: true
 ---
-
+ 
 ---
 I am from the North of  England, and I did my combined bachelors and masters, 
 MPhys, (Physics with astrophysics and cosmology), at Lancaster University. 
