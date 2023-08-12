@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Emma Dodd"
   avatar           : "/assets/images/EDodd_Photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Third year PhD student at the Kapteyn Institute, University of Groningen. "
+  bio              : "PhD researcher at the Kapteyn Institute, University of Groningen. "
   location         : "Groningen, The Netherlands"
   email            :
   links:
