@@ -23,13 +23,13 @@ topic of my PhD is galactic archaeology, to study the assembly history of the Mi
 from present-day dynamical and chemical information. My main focus has been on using Gaia 
 data to unviel more information on the accretion events experience by our galaxy in the past.
 
-
+Click here<a href="assets/files/Emma_Dodd_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> for a link to my CV in PDF format.
 
 
 CV
 ======
 ---
 
-Click here<a href="assets/files/Emma_Dodd_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> for a link to my CV in PDF format.
+
 
 
