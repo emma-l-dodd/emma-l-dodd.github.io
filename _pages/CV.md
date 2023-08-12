@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-I am originally from the North of  England, and I did my combined bachelors and masters, 
+I am from the North of  England, and I did my combined bachelors and masters, 
 MPhys, (Physics with astrophysics and cosmology), at Lancaster University. 
 For my masters I was supervised by Dr. David Sobral researching present-day globular clusters 
 and modelling their evolution to predict if they would be observable with JWST at high redshift. 
