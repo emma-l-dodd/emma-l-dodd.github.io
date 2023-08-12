@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: collection
-permalink: /
+permalink: "/"
 collection: research
 entries_layout: grid
 author_profile: true
