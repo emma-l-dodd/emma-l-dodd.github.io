@@ -5,4 +5,4 @@ permalink: /
 author_profile: true
 ---
 
-Hi I am Emma Dodd, a third year PhD student in the University of Groningen. 
+Hello, I am Emma Dodd, a final year PhD researcher at Kapteyn Institute, University of Groningen. 
