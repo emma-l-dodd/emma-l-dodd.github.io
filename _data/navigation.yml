@@ -7,5 +7,5 @@ main:
     url: /CV/
   - title: "Publications"
     url: /publications/
-  - title: "Research Highlights"
-    url: /Research/
+#  - title: "Research Highlights"
+#    url: /Research/
