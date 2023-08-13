@@ -1,12 +1,12 @@
 ---
-title: "Clustering"
-excerpt: "Clustering in IOM space is a useful tool for finding merger debris in the halo."
+title: "Galactic Archaeology"
+excerpt: "Uncovering the assembly history of the Milky Way."
 layout: single
 collection: research
 number: 1
 header:
-  image: /assets/images/EDodd_Photo.jpeg
-  teaser: /assets/images/circle-cropped.png
+  image: /assets/images/gaia_sky.jpeg
+  teaser: /assets/images/Gaia.png
 ---
 
 This is a draft 
