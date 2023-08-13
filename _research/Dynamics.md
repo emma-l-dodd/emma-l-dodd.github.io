@@ -17,7 +17,8 @@ Since the angular momenta of the stars is observable and does not depend on the 
 
 We, therefore, suggest that within the regions of the halo probed by the Helmi stream orbits (about 5-20kpc) the dark matter halo has a prolate shape. The Helmi streams are a useful group of stars to constrain the Milky Way potential, due to their peculiar substructure, and their position in angular momenta space: without much contamination and separating them from the rest of the halo.
 
-For more information see ..
+For more information see [*Substructures, resonances, and debris streams. A new constraint on the inner shape of the Galactic dark halo*](https://ui.adsabs.harvard.edu/abs/2022A&A...659A..61D/abstract){:target='_blank'} <br/> Dodd, Emma; Helmi, Amina; Koppelman, Helmer H. (2022)
+    
 
 
 
