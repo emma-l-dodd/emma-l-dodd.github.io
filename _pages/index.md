@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: single
+permalink: /
 author_profile: true # Show the author profile (optional)
 ---
 
