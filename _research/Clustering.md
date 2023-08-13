@@ -5,7 +5,7 @@ layout: single
 collection: research
 number: 1
 header:
-  image: /assets/images/gaia_sky.jpeg
+  image: /assets/images/Gaia.png
   teaser: /assets/images/Gaia.png
 ---
 
