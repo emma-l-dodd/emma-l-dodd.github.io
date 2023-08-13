@@ -10,5 +10,7 @@ header:
 ---
 
 This is a draft 
+Video
+{% include video id="AzglD9nrUbo" provider="youtube" %}
 
-{% include youtube.html id="AzglD9nrUbo" %} 
+
