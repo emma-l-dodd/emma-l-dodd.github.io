@@ -278,7 +278,6 @@ collections:
 
 # Defaults
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
