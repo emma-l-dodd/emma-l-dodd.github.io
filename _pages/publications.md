@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publication List
-
 {% include_relative bib.md %}
 
 
