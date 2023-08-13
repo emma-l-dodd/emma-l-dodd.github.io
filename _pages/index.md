@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Home
 permalink: /
 author_profile: true # Show the author profile (optional)
 ---
