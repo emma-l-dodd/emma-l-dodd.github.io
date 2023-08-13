@@ -1,6 +1,6 @@
 ---
 title: "Dynamics"
-excerpt: "Unraveling the dynamics of the Milky Way"
+excerpt: "Constraining the Galactic potential of the Milky Way"
 layout: single
 collection: research
 number: 2
