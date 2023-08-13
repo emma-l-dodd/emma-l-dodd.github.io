@@ -1,6 +1,6 @@
 ---
 title: "Galactic Archaeology"
-excerpt: "Uncovering the assembly history of the Milky Way."
+excerpt: "Uncovering the assembly history of the Milky Way"
 layout: single
 collection: research
 number: 1
