@@ -1,6 +1,6 @@
 ## First Author 
-1. [*Gaia DR3 view of dynamical substructure in the stellar halo near the Sun*](https://ui.adsabs.harvard.edu/abs/2023A&A...670L...2D/abstract){:target='_blank'} <br/> **Dodd, Emma**; Callingham, Thomas M.; Helmi, Amina; Matsuno, Tadafumi; Ruiz-Lara, Tomás; Balbinot, Eduardo; Lövdal, Sofie           (A&A; 12 citations)
-2. [*Substructures, resonances, and debris streams. A new constraint on the inner shape of the Galactic dark halo*](https://ui.adsabs.harvard.edu/abs/2022A&A...659A..61D/abstract){:target='_blank'} <br/> **Dodd, Emma**; Helmi, Amina; Koppelman, Helmer H.           (A&A; 8 citations)
+1. [*Gaia DR3 view of dynamical substructure in the stellar halo near the Sun*](https://ui.adsabs.harvard.edu/abs/2023A&A...670L...2D/abstract){:target='_blank'} <br/> **Dodd, Emma**; Callingham, Thomas M.; Helmi, Amina; Matsuno, Tadafumi; Ruiz-Lara, Tomás; Balbinot, Eduardo; Lövdal, Sofie          (2023, A&A; 12 citations)
+2. [*Substructures, resonances, and debris streams. A new constraint on the inner shape of the Galactic dark halo*](https://ui.adsabs.harvard.edu/abs/2022A&A...659A..61D/abstract){:target='_blank'} <br/> **Dodd, Emma**; Helmi, Amina; Koppelman, Helmer H.          (2022, A&A; 8 citations)
     
 ## All Other Publications
 ### 2023
