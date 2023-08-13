@@ -145,6 +145,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _research
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -269,14 +270,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
