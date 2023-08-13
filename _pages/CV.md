@@ -25,8 +25,9 @@ data to unveil more information on the accretion events experienced by our galax
 
 Click here<a href="assets/files/Emma_Dodd_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> for a link to my CV in PDF format.
 
-Here(https://emma-l-dodd.github.io/emma-l-dodd.github.to/assets/files/Emma_Dodd_CV.pdf)
+Here(https://emma-l-dodd.github.io/emma-l-dodd.github.io/assets/files/Emma_Dodd_CV.pdf)
 ---
+
 
 
 
