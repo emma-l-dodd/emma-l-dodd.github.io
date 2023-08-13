@@ -276,7 +276,7 @@ collections:
     permalink: /:collection/:path/
 # Layout
 layout: default
-home: splash # Use the "home" layout for the home page
+home: single
 
 # Defaults
 defaults:
