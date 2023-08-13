@@ -6,7 +6,7 @@ collection: research
 number: 2
 header:
   image: /assets/images/EDodd_Photo.jpeg
-  teaser: /assets/images/circle-cropped.png
+  teaser: /assets/images/orbit.png
 ---
 
 This is a draft 
