@@ -5,8 +5,8 @@ layout: single
 collection: research
 number: 2
 header:
-  image: /assets/images/EDodd_Photo.jpeg
-  teaser: /assets/images/orbit.png
+  image: /assets/images/orbit.jpeg
+  teaser: /assets/images/dynamics.png
 ---
 
 This is a draft 
