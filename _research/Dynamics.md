@@ -2,6 +2,7 @@
 title: "Galactic Dynamics"
 excerpt: "Constraining the Galactic potential of the Milky Way"
 layout: single
+classes: wide
 collection: research
 number: 2
 header:
