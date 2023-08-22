@@ -12,6 +12,9 @@ header:
 ![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}
 Figure showing the halo sample used in our study. The red circle shows a 2.5 kpc volume around the Sun, where we are able to invert Gaia parallaxes to obtain a reliable distance measurement. Selecting halo stars kinematically we have a sample of approximately 70,000 halo stars. 
 
+![Single Linkage](/assets/images/single_linkage.png){:.align-center style="width: 50%; caption="Test"}
+2D visualisation of the single linkage algorithm where at each step of the algorithm the two closest components are joined until all components are joined. Taken from [Lövdal et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A&A...665A..57L/abstract){:target='_blank'}. 
+
 For more information see:
 
 [*Gaia DR3 view of dynamical substructure in the stellar halo near the Sun*](https://ui.adsabs.harvard.edu/abs/2023A&A...670L...2D/abstract){:target='_blank'} <br/>Dodd, Emma; Callingham, Thomas M.; Helmi, Amina; Matsuno, Tadafumi; Ruiz-Lara, Tomás; Balbinot, Eduardo; Lövdal, Sofie (2023)
