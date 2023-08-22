@@ -1,6 +1,7 @@
 ---
 title: About
 layout: collection
+classes: wide
 permalink: /
 collection: research
 entries_layout: grid
