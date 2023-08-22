@@ -8,7 +8,8 @@ header:
   image: /assets/images/M53.jpg
   teaser: /assets/images/M53_circle.png
 ---
-I have had an interest in Globular clusters since my undergraduate. My third-year research project involved reducing INT data and studying the properties of open and globular clusters using photometry to obtain estimates on their ages and metallicities. The work can be read [here](https://eprints.lancs.ac.uk/id/eprint/134674/).
+I have had an interest in Globular clusters since my undergraduate. This started with a LEAPs internship supervised by Dr Alice Zocchi, studying the dynamics of globular clusters to understand what are the main ingredients that shape their properties. The spherical approximation is too simple and so we measured the rotation curve of one system as a possible explanation for the flattening of this globular cluster. My third-year research project involved reducing INT data, combined with HST images to study the properties of open and globular clusters using photometry to obtain estimates of their ages and metallicities. The work can be read [here](https://eprints.lancs.ac.uk/id/eprint/134674/).
+
 
 
 ![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}
