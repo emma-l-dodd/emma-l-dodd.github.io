@@ -43,3 +43,6 @@ Here is a talk I gave on the topic:
 {% include video id="AzglD9nrUbo" provider="youtube" %}
 
 
+Cover image: Gaia Artist's impression - credits: ESA/ATG medialab; background image: ESO/S. Brunie
+
+
