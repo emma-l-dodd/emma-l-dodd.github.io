@@ -5,8 +5,8 @@ layout: single
 collection: research
 number: 1
 header:
-  image: /assets/images/Gaia.png
-  teaser: /assets/images/gaia_mapping.jpg
+  image: /assets/images/gaia_mapping.jpg
+  teaser: /assets/images/Gaia.png
 ---
 
 ![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}
