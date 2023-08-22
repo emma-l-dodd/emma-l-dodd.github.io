@@ -34,3 +34,5 @@ For more information see:
 
 [*ED-2: a cold but not so narrow stellar stream crossing the Solar neighbourhood*](https://ui.adsabs.harvard.edu/abs/2023arXiv230602756B/abstract){:target='_blank'} <br/> Balbinot, E.; Helmi, A.; Callingham, T.; Matsuno, T.; Dodd, E.; Ruiz-Lara, T (2023)
 
+
+<sup>Cover Image: Messier 53, as imaged by the Hubble Space Telescope - credit: ESA/Hubble & NASA </sup>
