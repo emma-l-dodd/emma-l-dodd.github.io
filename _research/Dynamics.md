@@ -5,6 +5,7 @@ layout: single
 classes: wide
 collection: research
 number: 2
+author_profile: true
 header:
   image: /assets/images/dynamics.png
   teaser: /assets/images/dynamics-circle.png
