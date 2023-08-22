@@ -10,15 +10,7 @@ Hello, I am Emma Dodd, a final year PhD researcher at Kapteyn Institute, Univers
 
 This is just a draft so far!
 
----
-title: Research
-layout: collection
-permalink: /research-highlights/
-collection: research
-entries_layout: grid
-author_profile: true
-sort_by: number
----
+
 
 
 
