@@ -12,7 +12,7 @@ I have had an interest in Globular clusters since my undergraduate. This started
 
 My third-year research project involved reducing INT data, combined with HST images to study the properties of open and globular clusters using photometry to obtain estimates of their ages and metallicities. The work can be read [here](https://eprints.lancs.ac.uk/id/eprint/134674/).
 
-My Masters thesis, supervised by Dr David Sobral, involved modelling how present day Milky Way globular clusters would have looked when they first formed by repopulating the young massive stars and genersting mock observational images to test if they are observable at high redshift with HST and JWST. Click [here](https://nbviewer.org/github/emma-l-dodd/emma-l-dodd.github.io/blob/master/assets/files/Masters_Thesis_Final.pdf) for a link to my thesis in PDF format.
+My Masters thesis, supervised by Dr David Sobral, involved modelling how present-day Milky Way globular clusters would have looked when they first formed by repopulating the young massive stars and generating mock observational images to test if they are observable at high redshift with HST and JWST. Click [here](https://nbviewer.org/github/emma-l-dodd/emma-l-dodd.github.io/blob/master/assets/files/Masters_Thesis_Final.pdf) for a link to my thesis in PDF format.
 
 
 ![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}
