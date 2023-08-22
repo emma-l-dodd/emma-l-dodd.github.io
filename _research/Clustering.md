@@ -6,7 +6,7 @@ collection: research
 number: 1
 header:
   image: /assets/images/Gaia.png
-  teaser: /assets/images/Gaia.png
+  teaser: /assets/images/gaia_mapping.jpg
 ---
 
 This is a draft 
