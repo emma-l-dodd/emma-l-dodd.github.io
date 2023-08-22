@@ -2,6 +2,7 @@
 title: "Globular Clusters"
 excerpt: "Studying the globular cluster population of the Milky Way"
 layout: single
+classes: wide
 collection: research
 number: 3
 header:
