@@ -10,7 +10,8 @@ header:
 ---
 Gaia is revolutionising the field of Galactic archaeology. Gaia DR3 has significantly increased the number of stars with radial velocities and provided for the first time astrophysical parameters, including metallicities for over 5 million stars. This dataset is improving our view of the local stellar halo.
 
-![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}<p align="center"><sup>Figure showing the halo sample used in our study. The red circle shows a 2.5 kpc volume around the Sun, where we are able to invert Gaia parallaxes to obtain a reliable distance measurement. Selecting halo stars kinematically we have a sample of approximately 70,000 halo stars.</sup></p>
+![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}
+<p align="center"><sup>Figure showing the halo sample used in our study. The red circle shows a 2.5 kpc volume around the Sun, where we are able to invert Gaia parallaxes to obtain a reliable distance measurement. Selecting halo stars kinematically we have a sample of approximately 70,000 halo stars.</sup></p>
 
 
 Merger debris is known to populate the inner stellar halo and is visible as substructure in integrals of motion (IOM) space, e.g. energy and angular momentum. Identifying these over-densities is possible with the use of clustering algorithms. 
