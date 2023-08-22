@@ -7,8 +7,8 @@ author_profile: true
  
 ---
 I am from the North of  England, and I did my combined bachelors and masters, 
-MPhys, (Physics with astrophysics and cosmology), at Lancaster University. 
-For my masters, I was supervised by Dr. David Sobral researching present-day globular clusters 
+MPhys, (Physics with astrophysics and cosmology), at Lancaster University. Here I was heavily involved with the [XGAL research and outreach team](https://xgalweb.wordpress.com).
+For my masters, I was supervised by Dr. David Sobral in researching present-day globular clusters 
 and modelling their evolution to predict if they would be observable with JWST at high redshift. 
 
 Throughout my undergrad I also worked with high redshift galaxy data; looking at CII 
