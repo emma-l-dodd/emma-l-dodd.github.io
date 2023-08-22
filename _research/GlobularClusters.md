@@ -3,7 +3,7 @@ title: "Globular Clusters"
 excerpt: "Studying the globular cluster population of the Milky Way"
 layout: single
 collection: research
-number: 1
+number: 3
 header:
   image: /assets/images/M53.jpg
   teaser: /assets/images/M53_circle.png
