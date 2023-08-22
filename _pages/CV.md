@@ -12,8 +12,8 @@ For my masters, I was supervised by Dr. David Sobral in researching present-day 
 and modelling their evolution to predict if they would be observable with JWST at high redshift. 
 
 Throughout my undergrad I also worked with high redshift galaxy data; looking at CII 
-emission with ALMA data cubes of CR7 and looking at the evolution of Lyman alpha haloes 
-with the SC4K catalogue. 
+emission with ALMA data cubes of CR7 and [looking at the evolution of Lyman alpha haloes 
+with the SC4K catalogue](https://xgalweb.wordpress.com/lyman-alpha-haloes-across-cosmic-time/). 
 
 My love for globular clusters began when I attended the LEAPs summer school in 2018, 
 working with Dr. Alice Zocchi at ESA, ESTEC on the flattening of globular cluster systems.
