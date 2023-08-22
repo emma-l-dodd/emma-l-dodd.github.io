@@ -23,6 +23,7 @@ We, therefore, suggest that within the regions of the halo probed by the Helmi s
 For more information see [*Substructures, resonances, and debris streams. A new constraint on the inner shape of the Galactic dark halo*](https://ui.adsabs.harvard.edu/abs/2022A&A...659A..61D/abstract){:target='_blank'} <br/> Dodd, Emma; Helmi, Amina; Koppelman, Helmer H. (2022)
     
 
+<sup>Cover image: NGC 5679 Galaxy Group / Arp 274: NASA, ESA, M. Livio and the Hubble Heritage Team (STScI/AURA)</sup>
 
 
 
