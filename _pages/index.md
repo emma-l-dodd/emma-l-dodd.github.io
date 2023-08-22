@@ -11,8 +11,9 @@ sort_by: number
 
 Hello, I am Emma Dodd, a final year PhD researcher at Kapteyn Institute, University of Groningen. 
 
+## Research Highlights
 
-This is just a draft so far!
+Click below to learn more about my research interests and some highlights of recent work. 
 
 
 
