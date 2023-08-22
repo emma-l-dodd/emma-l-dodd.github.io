@@ -17,8 +17,11 @@ My Masters thesis, supervised by Dr David Sobral, involved modelling how present
 My PhD research has been focused on the assembly history of the Milky Way and looking for the debris from accreted satellite galaxies, but through this we also identify several smaller streams in the local stellar halo. Some of these present a small spread in metallicity indicative that they could have had a disrupted globular cluster origin.
 
 ![Halo Sample](/assets/images/ED_IOM.png){:.align-center style="width: 90%; caption="Test"}
-<sup>Figure showing the halo sample in integrals of motion (IOM) space with the small overdensities we have identified at high ernergy shown in colour.</sup>
+<sup>Figure showing the halo sample in integrals of motion (IOM) space with the small overdensities we have identified at high energy shown in colour.</sup>
 
+One of these is ED-2, a cold but not-so-narrow stellar stream that crosses the Solar neighbourhood. This stream has an estimated thickness of 130 pc and velocity dispersion of 7.4 km/s with typical uncertainties on position and velocity of 25pc and 5 km/s respectively. The stars in the stream form a tight sequence in the CMD (indicative of a low [Fe/H] spread) and are bluer than the blue MS (very metal-poor). Spectroscopic [Fe/H] from Li et al. (2018) show that the stream stars exhibit a low metallicity of [Fe/H] ~ -2.63±0.2 and is unlikely to have a known progenitor.
+
+Stay tuned for chemical follow up of these streams. 
 
 For more information see:
 
