@@ -8,7 +8,8 @@ header:
   image: /assets/images/M53.jpg
   teaser: /assets/images/M53_circle.png
 ---
-Gaia is revolutionising the field of Galactic archaeology. Gaia DR3 has significantly increased the number of stars with radial velocities and provided for the first time astrophysical parameters, including metallicities for over 5 million stars. This dataset is improving our view of the local stellar halo.
+I have had an interest in Globular clusters since my undergraduate. My third-year research project involved reducing INT data and studying the properties of open and globular clusters using photometry to obtain estimates on their ages and metallicities. The work can be read [here](https://eprints.lancs.ac.uk/id/eprint/134674/).
+
 
 ![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}
 <sup>Figure showing the halo sample used in our study. The red circle shows a 2.5 kpc volume around the Sun, where we are able to invert Gaia parallaxes to obtain a reliable distance measurement. Selecting halo stars kinematically we have a sample of approximately 70,000 halo stars.</sup>
