@@ -12,8 +12,14 @@ header:
 ![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}
 Figure showing the halo sample used in our study. The red circle shows a 2.5 kpc volume around the Sun, where we are able to invert Gaia parallaxes to obtain a reliable distance measurement. Selecting halo stars kinematically we have a sample of approximately 70,000 halo stars. 
 
+
 ![Single Linkage](/assets/images/single_linkage.png){:.align-center style="width: 50%; caption="Test"}
 2D visualisation of the single linkage algorithm where at each step of the algorithm the two closest components are joined until all components are joined. Taken from [Lövdal et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022A&A...665A..57L/abstract){:target='_blank'}. 
+
+
+![IOM Space](/assets/images/IOM_space_groups.png){:.align-center style="width: 50%; caption="Test"}
+Figure showing the substructures within the local stellar halo in integrals of motion (IOM) space and velocity space. The substructures are colour coded by groups, showing that the local stellar halo appears to be made up of 7 main groups and a handful of smaller substructures.
+
 
 For more information see:
 
