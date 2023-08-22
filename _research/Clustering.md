@@ -4,6 +4,7 @@ excerpt: "Uncovering the assembly history of the Milky Way"
 layout: single
 classes: wide
 collection: research
+author_profile: true
 number: 1
 header:
   image: /assets/images/gaia_mapping.jpg
