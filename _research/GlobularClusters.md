@@ -5,6 +5,7 @@ layout: single
 classes: wide
 collection: research
 number: 3
+author_profile: true
 header:
   image: /assets/images/M53.jpg
   teaser: /assets/images/M53_circle.png
