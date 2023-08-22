@@ -32,5 +32,5 @@ Several of the smaller substructures at high energy are new and interesting to f
 
 For more information see:
 
-[*Gaia DR3 view of dynamical substructure in the stellar halo near the Sun*](https://ui.adsabs.harvard.edu/abs/2023A&A...670L...2D/abstract){:target='_blank'} <br/>Dodd, Emma; Callingham, Thomas M.; Helmi, Amina; Matsuno, Tadafumi; Ruiz-Lara, Tomás; Balbinot, Eduardo; Lövdal, Sofie (2023)
+[*ED-2: a cold but not so narrow stellar stream crossing the Solar neighbourhood*](https://ui.adsabs.harvard.edu/abs/2023arXiv230602756B/abstract){:target='_blank'} <br/> Balbinot, E.; Helmi, A.; Callingham, T.; Matsuno, T.; Dodd, E.; Ruiz-Lara, T (2023)
 
