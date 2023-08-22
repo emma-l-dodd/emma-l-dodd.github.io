@@ -2,6 +2,7 @@
 title: "Galactic Archaeology"
 excerpt: "Uncovering the assembly history of the Milky Way"
 layout: single
+classes: wide
 collection: research
 number: 1
 header:
