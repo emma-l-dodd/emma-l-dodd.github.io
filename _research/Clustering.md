@@ -9,8 +9,8 @@ header:
   teaser: /assets/images/gaia_mapping.jpg
 ---
 
-![Helmi Streams Substructure](/assets/images/HS_clumps.png){:.align-center style="width: 95%; caption="Test"}
-Figure showing the substructure in angular momentum space present in the local Helmi stream stars. The stars with higher angular momenta (red) are those that are on a resonant orbit when looking at the orbital frequencies, and this orbit lies on the 1:1 line when modifying the Mc Millan 2017 potential to have a prolate dark matter halo shape of q=1.2
+![Halo Sample](/assets/images/halo_sample.png){:.align-center style="width: 50%; caption="Test"}
+Figure showing the halo sample used in our study. The red circle shows a 2.5 kpc volume around the Sun, where we are able to invert Gaia parallaxes to obtain a reliable distance measurement. Selecting halo stars kinematically we have a sample of approximately 70,000 halo stars. 
 
 For more information see:
 
