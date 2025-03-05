@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Emma Dodd"
   avatar           : "/assets/images/EDodd_Photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD researcher at the Kapteyn Institute, University of Groningen. "
-  location         : "The Netherlands"
+  bio              : "Postdoctoral researcher at Institute for Computational Cosmology, Durham University"
+  location         : "United Kingdom"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dodd@astro.rug.nl"
+      url: "mailto:emma.l.dodd@durham.ac.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Emma_L_Dodd"
@@ -128,7 +128,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dodd@astro.rug.nl"
+      url: "mailto:emma.l.dodd@durham.ac.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Emma_L_Dodd"
