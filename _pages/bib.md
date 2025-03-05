@@ -14,7 +14,6 @@
 5. [*The 33 M<SUB>⊙</SUB> black hole Gaia BH3 is part of the disrupted ED-2 star cluster*](https://ui.adsabs.harvard.edu/abs/2024A&A...687L...3B/abstract){:target='_blank'} <br/> Balbinot, E.; **Dodd, E.**; Matsuno, T.; Lardo, C.; Helmi, A.; Panuzzo, P.; Mazeh, T.; Holl, B.           (A&A; 17 citations)
 ### 2023
 6. [*ED-2: A cold but not so narrow stellar stream crossing the solar neighbourhood*](https://ui.adsabs.harvard.edu/abs/2023A&A...678A.115B/abstract){:target='_blank'} <br/> Balbinot, E.; Helmi, A.; Callingham, T.; Matsuno, T.; **Dodd, E.**; Ruiz-Lara, T.           (A&A; 12 citations)
-
 ### 2022
 7. [*High-precision chemical abundances of Galactic building blocks. II. Revisiting the chemical distinctness of the Helmi streams*](https://ui.adsabs.harvard.edu/abs/2022A&A...665A..46M/abstract){:target='_blank'} <br/> Matsuno, Tadafumi; **Dodd, Emma**; Koppelman, Helmer H.; Helmi, Amina; Ishigaki, Miho N.; Aoki, Wako; Zhao, Jingkun; Yuan, Zhen           (A&A; 23 citations)
 8. [*Substructure in the stellar halo near the Sun. II. Characterisation of independent structures*](https://ui.adsabs.harvard.edu/abs/2022A&A...665A..58R/abstract){:target='_blank'} <br/> Ruiz-Lara, T.; Matsuno, T.; Lövdal, S. S.; Helmi, A.; **Dodd, E.**; Koppelman, H. H.           (A&A; 40 citations)
