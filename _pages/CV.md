@@ -21,7 +21,7 @@ working with Dr. Alice Zocchi at ESA, ESTEC on the flattening of globular cluste
 
 I completed my PhD at the Kapteyn Institute, Groningen, Netherlands from 2020 -2024 with Prof. Dr. Amina Helmi. My work focused on galactic archaeology, to study the assembly history of the Milky Way
 from present-day dynamical and chemical information. My main focus has been on using Gaia 
-data to unveil more information on the accretion events experienced by our galaxy in the past. 
+data to unveil more information on the accretion events experienced by our galaxy in the past. Click [here](https://research.rug.nl/en/publications/galactic-ancestry-in-the-gaia-era) for a link to my PhD thesis. 
 
 I am now working as a postdoctoral researcher at the Insitute for Computational Cosmology in Durham, United Kingdom, continuing research into the assembly of the Milky Way. 
 
